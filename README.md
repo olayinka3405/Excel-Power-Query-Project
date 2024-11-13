@@ -17,7 +17,7 @@ The analysis involves the following steps:
 
 ## Project Benefits:
 1. Showcase ability to turn raw data into meaningful insights
-2. showcase ability to use Power Query for data transformation and Pivot tables for analtsis
+2. Showcase ability to use Power Query for data transformation and Pivot tables for analtsis
 3. Refreshable aspect of report shows efficiency in handling ongoing data updates
 
 ## Contact
