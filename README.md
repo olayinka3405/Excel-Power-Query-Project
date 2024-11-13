@@ -1,6 +1,6 @@
 # Monthly Sales Analysis Dashboard
 
-## Summary
+## Summary:
 Create an interactive, refreshable sales analysis dashboard in Excel that provides insights into sales performance, trends, and key metrics. This project will leverage Power Query for data transformation and Pivot Tables/Charts for visual representation
 
 ## Data Requirements:
@@ -14,6 +14,9 @@ The analysis involves the following steps:
 3. Model Creation
 4. Analysis Using Pivot Tables
 5. Dashboard Creation with Pivot Charts
+
+## Download Report:
+Simply navigate to https://github.com/olayinka3405/Excel-Power-Query-Project/blob/main/Monthly%20Sales%20Report.xlsx and download "Raw Data"
 
 ## Project Benefits:
 1. Showcase ability to turn raw data into meaningful insights
