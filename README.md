@@ -8,7 +8,7 @@ Create an interactive, refreshable sales analysis dashboard in Excel that provid
 - Dim Tables
 
 ## Project Steps:
-The analysis involbes the following steps:
+The analysis involves the following steps:
 1. Data Import and Cleaning with Power Query
 2. Data Transformation
 3. Model Creation
