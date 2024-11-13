@@ -16,7 +16,7 @@ The analysis involves the following steps:
 5. Dashboard Creation with Pivot Charts
 
 ## Download Report:
-Simply navigate to https://github.com/olayinka3405/Excel-Power-Query-Project/blob/main/Monthly%20Sales%20Report.xlsx and download "Raw Data"
+Simply navigate to https://github.com/olayinka3405/Excel-Power-Query-Project/blob/main/Monthly%20Sales%20Report.xlsx and click "View raw"
 
 ## Project Benefits:
 1. Showcase ability to turn raw data into meaningful insights
